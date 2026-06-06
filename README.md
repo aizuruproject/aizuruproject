@@ -6,9 +6,9 @@ I specialize in the C++ and Python programming languages.
 
 I have also competed in several prominent competitions, including:
 
--The National Science Olympiad (OSN) in Informatics (City/Regency Level
+- The National Science Olympiad (OSN) in Informatics (City/Regency Level
 
--Schematics, organized by the Sepuluh Nopember Institute of Technology (ITS)
+- Schematics, organized by the Sepuluh Nopember Institute of Technology (ITS)
 
 Fun Fact:
 
