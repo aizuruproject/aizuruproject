@@ -4,7 +4,7 @@ I am Mirza, a student with a keen interest in programming and next-generation te
 
 I specialize in the C++ and Python programming languages.
 
-I have also competed in several prominent competitions, including:
+👨‍💻 I have also competed in several prominent competitions, including:
 
 - The National Science Olympiad (OSN) in Informatics (City/Regency Level
 
@@ -12,7 +12,7 @@ I have also competed in several prominent competitions, including:
 
 Fun Fact:
 
-- I really love Asian food
-- I don't like staying up late
+- 🍜 I really love Asian food
+- 🛌I don't like staying up late
 
 
