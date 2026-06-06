@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**aizuruproject/aizuruproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mirza, a student with a keen interest in programming and next-generation technology.
 
-Here are some ideas to get you started:
+I specialize in the C++ and Python programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have also competed in several prominent competitions, including:
+-The National Science Olympiad (OSN) in Informatics (City/Regency Level
+-Schematics, organized by the Sepuluh Nopember Institute of Technology (ITS)
+
+My personal interests and hobbies include:
+-Programming
+-Anime
+-Gaming
+-Japanese pop culture
+Itasha culture
+-Cosplay
