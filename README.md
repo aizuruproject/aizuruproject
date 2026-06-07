@@ -37,3 +37,8 @@ I am currently learning programming languages like C++ and Python, as well as HT
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML-RRGGBB?style=for-the-badge&logo=HTMl&logoColor=white)]()
+
+
+
+![snake gif](https://github.com/aizuruproject/blob/output/github-snake-dark.svg)
+
