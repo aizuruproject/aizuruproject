@@ -2,7 +2,6 @@
 <img src="https://c.tenor.com/9sr64CjMCZwAAAAC/tenor.gif" width="500" alt="Oguri"
   </p>
 
-  <p align="center">
 ![](https://komarev.com/ghpvc/?username=aizuruproject)
 
 
