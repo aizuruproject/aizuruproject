@@ -32,6 +32,10 @@ I am currently learning programming languages like C++ and Python, as well as HT
 [![toki](https://img.shields.io/badge/toki-2196f3?style=for-the-badge&logo=&logoColor=white)](https://tlx.toki.id/profiles/lordbendong)
 [![Codeforces](https://img.shields.io/badge/codeforces-FFF000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MirzaFayzul01)
 
+<div align= "center">
+
+![snake gif](https://github.com/aizuruproject/aizuruproject/blob/output/github-snake-dark.svg)
+</div>
 
 ## 🧑‍💻 Programming Languages
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white)]()
@@ -39,5 +43,4 @@ I am currently learning programming languages like C++ and Python, as well as HT
 [![HTML](https://img.shields.io/badge/HTML-RRGGBB?style=for-the-badge&logo=HTMl&logoColor=white)]()
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
