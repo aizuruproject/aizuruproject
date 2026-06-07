@@ -13,9 +13,9 @@ I am currently learning programming languages like C++ and Python, as well as HT
 
 👨‍💻 I have also competed in several prominent competitions, including:
 
-- The National Science Olympiad (OSN) in Informatics 
+-  National Science Olympiad (OSN) in Informatics 
 
--  Schematics, organized by the Sepuluh Nopember Institute of Technology (ITS)
+-  Schematics, organized by Sepuluh Nopember Institute of Technology (ITS)
 
 
   
