@@ -2,13 +2,17 @@
 <img src="https://c.tenor.com/9sr64CjMCZwAAAAC/tenor.gif" width="500" alt="Oguri"
   </p>
 
-![](https://komarev.com/ghpvc/?username=aizuruproject)
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aizuruproject&color=green"  />
+</div>
 
 
 
+###
 
 
-## 🚀 About Me
 I am Mirza, a student with a keen interest in programming and next-generation technology.
 
 I am currently learning programming languages like C++ and Python, as well as HTML.
