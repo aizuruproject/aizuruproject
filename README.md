@@ -9,7 +9,7 @@
 ## 🚀 About Me
 I am Mirza, a student with a keen interest in programming and next-generation technology.
 
-I specialize in the C++ and Python programming languages.
+I am currently learning programming languages like C++ and Python, as well as HTML.
 
 👨‍💻 I have also competed in several prominent competitions, including:
 
