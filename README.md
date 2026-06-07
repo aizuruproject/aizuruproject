@@ -26,3 +26,8 @@ I specialize in the C++ and Python programming languages.
 [![toki](https://img.shields.io/badge/toki-2196f3?style=for-the-badge&logo=&logoColor=white)](https://tlx.toki.id/profiles/lordbendong)
 [![Codeforces](https://img.shields.io/badge/codeforces-FFF000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MirzaFayzul01)
 
+
+## 🧑‍💻 Programming Languages
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML-RRGGBB?style=for-the-badge&logo=HTMl&logoColor=white)]()
