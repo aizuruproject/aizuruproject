@@ -39,12 +39,5 @@ I am currently learning programming languages like C++ and Python, as well as HT
 [![HTML](https://img.shields.io/badge/HTML-RRGGBB?style=for-the-badge&logo=HTMl&logoColor=white)]()
 
 
-
-
-
-
-
-
-
-![snake gif](https://github.com/aizuruproject/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
