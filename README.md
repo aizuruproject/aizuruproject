@@ -1,4 +1,9 @@
 
+
+
+
+
+
 ## 🚀 About Me
 I am Mirza, a student with a keen interest in programming and next-generation technology.
 
