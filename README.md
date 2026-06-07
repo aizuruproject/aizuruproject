@@ -25,22 +25,29 @@ I am currently learning programming languages like C++ and Python, as well as HT
 
 
   
-## 🔗 Links
+## Social Media
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61564947208873)
 [![instagram](https://img.shields.io/badge/instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mir2009__/)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fayzul11)
+
+
+
+
+## Practice
 [![toki](https://img.shields.io/badge/toki-2196f3?style=for-the-badge&logo=&logoColor=white)](https://tlx.toki.id/profiles/lordbendong)
 [![Codeforces](https://img.shields.io/badge/codeforces-FFF000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MirzaFayzul01)
+
+##  Tech Stack
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML-RRGGBB?style=for-the-badge&logo=HTMl&logoColor=white)]()
+
 
 <div align= "center">
 
 ![snake gif](https://github.com/aizuruproject/aizuruproject/blob/output/github-snake-dark.svg)
 </div>
 
-## 🧑‍💻 Tech Stack
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/HTML-RRGGBB?style=for-the-badge&logo=HTMl&logoColor=white)]()
 
 
 
