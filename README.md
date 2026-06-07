@@ -40,5 +40,11 @@ I am currently learning programming languages like C++ and Python, as well as HT
 
 
 
+
+
+
+
+
+
 ![snake gif](https://github.com/aizuruproject/blob/output/github-snake-dark.svg)
 
