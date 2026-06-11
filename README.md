@@ -2,7 +2,7 @@
 <img src="https://c.tenor.com/9sr64CjMCZwAAAAC/tenor.gif" width="500" alt="Oguri"
   </p>
 
-###
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aizuruproject&color=green"  />
@@ -10,7 +10,7 @@
 
 
 
-###
+##
 
 
 I am Mirza, a student with a keen interest in programming and next-generation technology.
