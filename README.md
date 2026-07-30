@@ -38,8 +38,8 @@ I am currently learning programming languages like C++ and Python, as well as HT
 [![Codeforces](https://img.shields.io/badge/codeforces-FFF000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MirzaFayzul01)
 
 ##                                          Tech Stack
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cpp&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=CSS&logoColor=white)]()
+[![Javascript](https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=Javascript&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML-RRGGBB?style=for-the-badge&logo=HTMl&logoColor=white)]()
 
 
