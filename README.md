@@ -10,19 +10,20 @@
 
 
 
-##
+##                                                                     About Me
 
+Greetings, My name is Mirza Fayzul Haq Darmawan. I'm also known as Mirza. I'm a person who has a big interest at programming.
 
-I am Mirza, a student with a keen interest in programming and next-generation technology.
+Challenges that I have faced on programming are, Olimpiade Sains Nasional (OSN) in Informatics and Schematics by Institute Teknologi 10 Nopember.
+Although I'm not managed to go to the final round, I got so many experiences and perseverance while preparing for Olympiad.
 
-I am currently learning programming languages like C++ and Python, as well as HTML.
+##  Goals 
 
-👨‍💻 I have also competed in several prominent competitions, including:
-
--  National Science Olympiad (OSN) in Informatics 
-
--  Schematics, organized by Sepuluh Nopember Institute of Technology (ITS)
-
+My goals in the future are:
+- Mastering programming languages such as, HTML, JavaScript, and style language CSS
+- Manage to build good communication and networking
+- Manage to improving my time management
+- Improving my English skills
 
   
 ##                                                                       Social Media
