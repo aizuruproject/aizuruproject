@@ -14,8 +14,10 @@
 
 Greetings, My name is Mirza Fayzul Haq Darmawan. I'm also known as Mirza. I'm a person who has a big interest at programming.
 
-Challenges that I have faced on programming are, Olimpiade Sains Nasional (OSN) in Informatics and Schematics by Institute Teknologi 10 Nopember.
+Challenges that I have faced on programming are, Olimpiade Sains Nasional (OSN) in Informatics and Schematics by Institute Teknologi Sepuluh Nopember.
 Although I'm not managed to go to the final round, I got so many experiences and perseverance while preparing for Olympiad.
+
+My future Universities are Institut Teknologi Sepuluh Nopember (ITS) and Universitas Diponegoro (UNDIP)
 
 ##  Goals 
 
