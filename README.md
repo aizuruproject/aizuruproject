@@ -14,13 +14,6 @@
 
 Greetings, My name is Mirza Fayzul Haq Darmawan. I'm also known as Mirza. I'm a person who has a big interest at programming since my 1st year of senior high school.
 
-##  Goals 
-
-My goals in the future are:
-- Mastering programming languages such as, HTML, JavaScript, and stylesheet language CSS
-- Manage to build good communication and networking
-- Manage to improving my time management
-- Improving my English skills
 
   
 ##                                                                       Social Media
