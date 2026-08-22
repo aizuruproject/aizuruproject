@@ -18,7 +18,7 @@ Greetings, My name is Mirza Fayzul Haq Darmawan. I'm also known as Mirza. I'm a 
   
 ##                                                                       Social Media
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61564947208873)
-[![instagram](https://img.shields.io/badge/instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mir2009__/)
+[![instagram](https://img.shields.io/badge/instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mirzafayzul_h/)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fayzul11)
 
 
