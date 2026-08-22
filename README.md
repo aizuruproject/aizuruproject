@@ -25,8 +25,10 @@ Greetings, My name is Mirza Fayzul Haq Darmawan. I'm also known as Mirza. I'm a 
 
 
 ##                                                                  Practice
-[![toki](https://img.shields.io/badge/toki-2196f3?style=for-the-badge&logo=&logoColor=white)](https://tlx.toki.id/profiles/lordbendong)
+[![toki](https://img.shields.io/badge/tlx-2196f3?style=for-the-badge&logo=&logoColor=white)](https://tlx.toki.id/profiles/lordbendong)
 [![Codeforces](https://img.shields.io/badge/codeforces-FFF000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MirzaFayzul01)
+[![W3schools](https://img.shields.io/badge/W3schools-0B6623?style=for-the-badge&logo=W3schools&logoColor=white)](https://pathfinder.w3schools.com/profile)
+
 
 ##                                          Tech Stack
 [![CSS](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=CSS&logoColor=white)]()
